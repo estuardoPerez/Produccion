@@ -1,0 +1,15 @@
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\bin\Debug\RRHH.exe.config
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\bin\Debug\RRHH.exe
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\bin\Debug\RRHH.pdb
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.csprojResolveAssemblyReference.cache
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.Form1.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.csproj.GenerateResource.Cache
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.exe
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH.pdb
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2602_Control.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2603_Diseño.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2604_Manufactura.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2605_Pruebas.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2606_Empaque.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2607_Envío.resources
