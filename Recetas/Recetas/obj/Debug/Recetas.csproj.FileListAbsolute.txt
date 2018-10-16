@@ -1,0 +1,11 @@
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\bin\Debug\Recetas.exe.config
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\bin\Debug\Recetas.exe
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\bin\Debug\Recetas.pdb
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.csprojResolveAssemblyReference.cache
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.produccion_2101.resources
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.Properties.Resources.resources
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.csproj.GenerateResource.Cache
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.exe
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.pdb
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.produccion_2102.resources
+c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.produccion_2103.resources
