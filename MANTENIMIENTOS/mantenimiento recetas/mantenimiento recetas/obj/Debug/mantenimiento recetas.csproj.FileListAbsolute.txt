@@ -1,0 +1,9 @@
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\bin\Debug\mantenimiento recetas.exe.config
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\bin\Debug\mantenimiento recetas.exe
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\bin\Debug\mantenimiento recetas.pdb
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento recetas.csprojResolveAssemblyReference.cache
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento_recetas.Form1.resources
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento_recetas.Properties.Resources.resources
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento recetas.csproj.GenerateResource.Cache
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento recetas.exe
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\mantenimiento recetas\mantenimiento recetas\obj\Debug\mantenimiento recetas.pdb
