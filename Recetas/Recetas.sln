@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recetas", "Recetas\Recetas.csproj", "{1D89C154-9FD7-409A-BB50-A0E35770907C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recetas", "Recetas\Recetas.csproj", "{45D5097C-55F4-4480-ABD3-962D982E336E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1D89C154-9FD7-409A-BB50-A0E35770907C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D89C154-9FD7-409A-BB50-A0E35770907C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D89C154-9FD7-409A-BB50-A0E35770907C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D89C154-9FD7-409A-BB50-A0E35770907C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D5097C-55F4-4480-ABD3-962D982E336E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D5097C-55F4-4480-ABD3-962D982E336E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D5097C-55F4-4480-ABD3-962D982E336E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D5097C-55F4-4480-ABD3-962D982E336E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

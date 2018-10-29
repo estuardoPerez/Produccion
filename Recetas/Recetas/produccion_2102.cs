@@ -19,6 +19,11 @@ namespace Recetas
             InitializeComponent();
         }
 
+        private void btn_ayuda_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas/ayuda/ayuda.chm", "nueva_receta.html");
+        }
+
         private void btn_salir_Click(object sender, EventArgs e)
         {
             anterior.Show();
@@ -28,6 +33,11 @@ namespace Recetas
         private void btn_minimizar_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void lbl_tabla1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void produccion_2102_HelpRequested(object sender, HelpEventArgs hlpevent)
