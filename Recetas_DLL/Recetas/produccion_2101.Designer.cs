@@ -112,6 +112,7 @@
             this.btn_borrar.Text = "Borrar";
             this.btn_borrar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_borrar.UseVisualStyleBackColor = false;
+            this.btn_borrar.Click += new System.EventHandler(this.btn_borrar_Click);
             // 
             // textBox2
             // 
