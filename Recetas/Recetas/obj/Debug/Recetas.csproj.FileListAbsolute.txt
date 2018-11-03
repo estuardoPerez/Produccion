@@ -9,3 +9,6 @@ c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\
 c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.pdb
 c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.produccion_2102.resources
 c:\users\chopes\documents\visual studio 2015\Projects\Recetas\Recetas\obj\Debug\Recetas.produccion_2103.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\Recetas\Recetas\bin\Debug\Recetas.exe.config
+C:\Users\jtanc\Documents\GitHub\Produccion\Recetas\Recetas\obj\Debug\Recetas.exe
+C:\Users\jtanc\Documents\GitHub\Produccion\Recetas\Recetas\obj\Debug\Recetas.pdb

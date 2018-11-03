@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayuda.chm
+Contents file=contenidos.hhc
+Default topic=AyudaInicio.html
+Display compile progress=No
+Index file=Indice.hhk
+Language=0x100a Español (Guatemala)
+
+
+[FILES]
+AyudaInicio.html
+AyudaOperacion.html
+AyudaProceso.html
+
+[INFOTYPES]
+

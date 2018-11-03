@@ -13,3 +13,32 @@ c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2
 c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2605_Pruebas.resources
 c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2606_Empaque.resources
 c:\users\jtanc\documents\visual studio 2015\Projects\RRHH\RRHH\obj\Debug\RRHH._2607_Envío.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\RRHH.exe.config
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.exe
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.pdb
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\RRHH.exe
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\RRHH.pdb
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\CapaDiseno.dll
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\CapaLogica.dll
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\bin\Debug\CapaDatos.dll
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.csprojResolveAssemblyReference.cache
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.Form1.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH.csproj.GenerateResource.Cache
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH._2602_Operacion.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH._2603_Procesos.resources
+C:\Users\jtanc\Documents\GitHub\Produccion\RRHH\RRHH\obj\Debug\RRHH._2603_Proceso.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.exe.config
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.exe
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.pdb
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.exe
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.pdb
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\CapaLogica.dll
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\CapaDatos.dll
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.csprojResolveAssemblyReference.cache
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH._2602_Operación.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH._2603_Proceso.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.csproj.GenerateResource.Cache
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.Ingreso.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\MDI.MDI.resources

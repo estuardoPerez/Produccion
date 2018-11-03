@@ -1,0 +1,13 @@
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.exe.config
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.exe
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.pdb
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.exe
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\RRHH.pdb
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\CapaLogica.dll
+C:\Users\jtanc\Desktop\RRHH\RRHH\bin\Debug\CapaDatos.dll
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\CapaPresentación.csprojResolveAssemblyReference.cache
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.Ingreso.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH._2602_Operación.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH._2603_Proceso.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+C:\Users\jtanc\Desktop\RRHH\RRHH\obj\Debug\CapaPresentación.csproj.GenerateResource.Cache
