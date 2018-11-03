@@ -1,0 +1,16 @@
+c:\users\jonathan pérez\documents\visual studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\bin\Debug\Mantemiento Ordenes de producción.exe.config
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\bin\Debug\Mantemiento Ordenes de producción.exe
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\bin\Debug\Mantemiento Ordenes de producción.pdb
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento Ordenes de producción.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción.Form1.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción.Properties.Resources.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento Ordenes de producción.csproj.GenerateResource.Cache
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento Ordenes de producción.exe
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento Ordenes de producción.pdb
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción._2020_Agregar_Prioridad.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción._2030_Agregar_Estado.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción._2040_Agregar_Linea.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción._2050_Agregar_Lote.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\obj\Debug\Mantemiento_Ordenes_de_producción._2060_Agregar_Materia.resources
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\bin\Debug\CapaLogica.dll
+C:\Users\Jonathan Pérez\Documents\Visual Studio 2015\Projects\Mantemiento Ordenes de producción\Mantemiento Ordenes de producción\bin\Debug\CapaDatos.dll

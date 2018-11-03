@@ -1,0 +1,32 @@
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.exe.config
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.exe
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.pdb
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.csprojAssemblyReference.cache
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.Form1.resources
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.frmOrdenes.resources
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.frmTipoCama.resources
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.Properties.Resources.resources
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.csproj.GenerateResource.cache
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.csproj.CoreCompileInputs.cache
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.exe
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.pdb
+C:\Users\echeverr.i16825\source\repos\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.MateriaPrima.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.exe.config
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.exe
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.pdb
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\MDI.Form1.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.frmInicio.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.frmOrdenes.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.frmTipoCama.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.MateriaPrima.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.Properties.Resources.resources
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.csproj.GenerateResource.Cache
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.exe
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.pdb
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.csprojResolveAssemblyReference.cache
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\CapaLogica.dll
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\CapaDatos.dll
+C:\Users\echeverr.i16825\Desktop\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\CapaDiseno.dll
+C:\Users\echeverr.i16825\Desktop\dell\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\bin\Debug\PrototipoProduccion.exe.config
+C:\Users\echeverr.i16825\Desktop\dell\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.exe
+C:\Users\echeverr.i16825\Desktop\dell\Proyecto Analisis de Sistema\PrototipoProduccion\PrototipoProduccion\obj\Debug\PrototipoProduccion.pdb
