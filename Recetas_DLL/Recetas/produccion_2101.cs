@@ -29,26 +29,26 @@ namespace Recetas
 
         private void btn_ayuda_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas/ayuda/ayuda.chm", "ayuda_general.html");
+            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas_DLL/ayuda/ayuda.chm", "ayuda_general.html");
         }
 
         private void produccion_2101_HelpRequested(object sender, HelpEventArgs hlpevent)
         {
-            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas/ayuda/ayuda.chm", "ayuda_general.html");
+            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas_DLL/ayuda/ayuda.chm", "ayuda_general.html");
         }
 
         private void btn_nueva_Click(object sender, EventArgs e)
         {
             produccion_2102 nuevo = new produccion_2102(this);
-            nuevo.Show();
-            this.Hide();
+            nuevo.ShowDialog();
+            //this.Hide();
         }
 
         private void btn_editar_Click(object sender, EventArgs e)
         {
             produccion_2102 nuevo = new produccion_2102(this);
-            nuevo.Show();
-            this.Hide();
+            nuevo.ShowDialog();
+            //this.Hide();
         }
     }
 }

@@ -21,7 +21,8 @@ namespace Recetas
 
         private void btn_salir_Click(object sender, EventArgs e)
         {
-            anterior.Show();
+            if(anterior != null)
+                anterior.Show();
             this.Close();
         }
 
@@ -32,10 +33,20 @@ namespace Recetas
 
         private void produccion_2102_HelpRequested(object sender, HelpEventArgs hlpevent)
         {
-            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas/ayuda/ayuda.chm", "nueva_receta.html");
+            Help.ShowHelp(this, "C:/Users/chopes/Documents/Visual Studio 2015/Projects/Recetas_DLL/ayuda/ayuda.chm", "nueva_receta.html");
         }
 
         private void lbl_costo_total_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_eliminar_campo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_agregar_campo_Click(object sender, EventArgs e)
         {
 
         }

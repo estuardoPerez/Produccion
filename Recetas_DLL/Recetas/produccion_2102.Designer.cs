@@ -38,6 +38,8 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.lbl_nombre = new System.Windows.Forms.Label();
             this.gpb_campos = new System.Windows.Forms.GroupBox();
+            this.lbl_costo_total = new System.Windows.Forms.Label();
+            this.lbl_costo_unitario = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label35 = new System.Windows.Forms.Label();
@@ -54,8 +56,6 @@
             this.btn_minimizar = new System.Windows.Forms.Button();
             this.btn_salir = new System.Windows.Forms.Button();
             this.navegador1 = new CapaDiseno.Navegador();
-            this.lbl_costo_unitario = new System.Windows.Forms.Label();
-            this.lbl_costo_total = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.gpb_campos.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -170,6 +170,29 @@
             this.gpb_campos.TabStop = false;
             this.gpb_campos.Text = "Materia Prima";
             // 
+            // lbl_costo_total
+            // 
+            this.lbl_costo_total.AutoSize = true;
+            this.lbl_costo_total.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_costo_total.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lbl_costo_total.Location = new System.Drawing.Point(511, 61);
+            this.lbl_costo_total.Name = "lbl_costo_total";
+            this.lbl_costo_total.Size = new System.Drawing.Size(116, 15);
+            this.lbl_costo_total.TabIndex = 117;
+            this.lbl_costo_total.Text = "Costo Total: Q.$$$$";
+            this.lbl_costo_total.Click += new System.EventHandler(this.lbl_costo_total_Click);
+            // 
+            // lbl_costo_unitario
+            // 
+            this.lbl_costo_unitario.AutoSize = true;
+            this.lbl_costo_unitario.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_costo_unitario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lbl_costo_unitario.Location = new System.Drawing.Point(350, 61);
+            this.lbl_costo_unitario.Name = "lbl_costo_unitario";
+            this.lbl_costo_unitario.Size = new System.Drawing.Size(133, 15);
+            this.lbl_costo_unitario.TabIndex = 116;
+            this.lbl_costo_unitario.Text = "Costo Unitario: Q.$$$$";
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.dataGridView1);
@@ -235,6 +258,7 @@
             this.btn_eliminar_campo.Text = "Borrar";
             this.btn_eliminar_campo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_eliminar_campo.UseVisualStyleBackColor = false;
+            this.btn_eliminar_campo.Click += new System.EventHandler(this.btn_eliminar_campo_Click);
             // 
             // numericUpDown2
             // 
@@ -256,6 +280,7 @@
             this.btn_agregar_campo.Text = "Agregar";
             this.btn_agregar_campo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_agregar_campo.UseVisualStyleBackColor = false;
+            this.btn_agregar_campo.Click += new System.EventHandler(this.btn_agregar_campo_Click);
             // 
             // cbo_tabla
             // 
@@ -343,36 +368,13 @@
             this.navegador1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.navegador1.DataGr = null;
             this.navegador1.Forma = null;
-            this.navegador1.Location = new System.Drawing.Point(33, 59);
+            this.navegador1.Location = new System.Drawing.Point(31, 59);
             this.navegador1.Name = "navegador1";
             this.navegador1.Procedimiento = null;
             this.navegador1.pubNombrechm = null;
             this.navegador1.pubNombreHtml = null;
             this.navegador1.Size = new System.Drawing.Size(857, 60);
             this.navegador1.TabIndex = 105;
-            // 
-            // lbl_costo_unitario
-            // 
-            this.lbl_costo_unitario.AutoSize = true;
-            this.lbl_costo_unitario.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_costo_unitario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lbl_costo_unitario.Location = new System.Drawing.Point(350, 61);
-            this.lbl_costo_unitario.Name = "lbl_costo_unitario";
-            this.lbl_costo_unitario.Size = new System.Drawing.Size(133, 15);
-            this.lbl_costo_unitario.TabIndex = 116;
-            this.lbl_costo_unitario.Text = "Costo Unitario: Q.$$$$";
-            // 
-            // lbl_costo_total
-            // 
-            this.lbl_costo_total.AutoSize = true;
-            this.lbl_costo_total.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_costo_total.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lbl_costo_total.Location = new System.Drawing.Point(511, 61);
-            this.lbl_costo_total.Name = "lbl_costo_total";
-            this.lbl_costo_total.Size = new System.Drawing.Size(116, 15);
-            this.lbl_costo_total.TabIndex = 117;
-            this.lbl_costo_total.Text = "Costo Total: Q.$$$$";
-            this.lbl_costo_total.Click += new System.EventHandler(this.lbl_costo_total_Click);
             // 
             // produccion_2102
             // 
@@ -429,8 +431,8 @@
         private System.Windows.Forms.Button btn_produccion;
         private System.Windows.Forms.Button btn_minimizar;
         private System.Windows.Forms.Button btn_salir;
-        private CapaDiseno.Navegador navegador1;
         private System.Windows.Forms.Label lbl_costo_total;
         private System.Windows.Forms.Label lbl_costo_unitario;
+        private CapaDiseno.Navegador navegador1;
     }
 }
