@@ -1,0 +1,110 @@
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe.config
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Form1.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Properties.Resources.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Form2.resources
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe.config
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.pdb
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csprojResolveAssemblyReference.cache
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Form1.resources
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Form2.resources
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Properties.Resources.resources
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csproj.GenerateResource.Cache
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.exe
+C:\Users\adria\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe.config
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaLogica.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.OrdenProduccion_2201.resources
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.DatosGenerales_2202.resources
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Properties.Resources.resources
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Produccion_2000.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe.config
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.exe
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.pdb
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.pdb
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDiseno.dll
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaLogica.dll
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDatos.dll
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.OrdenProduccion_2201.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.DatosGenerales_2202.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Produccion_2000.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Productos_2250.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Properties.Resources.resources
+C:\Users\adria\Documents\Documentos\UNIVERSIDAD 2018\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe.config
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.exe
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\Ordenes_Producción.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.OrdenProduccion_2201.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.DatosGenerales_2202.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Produccion_2000.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.Properties.Resources.resources
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\obj\Debug\Ordenes_Producción.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDiseno.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaLogica.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\DLL- Reporteador.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\ConsultasInteligentes.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDiseno.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaLogica.pdb
+C:\Users\User\Desktop\Estuardo\8vo semestre\Análisis II\2DO PROYECTO\COPIAS ORDENES\ULTIMO PROTOTIPO 22OCT\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\DLL- Reporteador.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\ConsultasInteligentes.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\stdole.dll
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDiseno.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaLogica.pdb
+C:\Users\User\Desktop\Ordenes de Producción\Ordenes_Producción\Ordenes_Producción\bin\Debug\CapaDatos.pdb
