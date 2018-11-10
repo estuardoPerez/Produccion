@@ -112,6 +112,7 @@
             this.btn_borrar.Text = "Borrar";
             this.btn_borrar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_borrar.UseVisualStyleBackColor = false;
+            this.btn_borrar.Click += new System.EventHandler(this.btn_borrar_Click);
             // 
             // textBox2
             // 
@@ -264,7 +265,7 @@
             this.btn_minimizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_minimizar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(201)))), ((int)(((byte)(87)))), ((int)(((byte)(54)))));
             this.btn_minimizar.Image = ((System.Drawing.Image)(resources.GetObject("btn_minimizar.Image")));
-            this.btn_minimizar.Location = new System.Drawing.Point(817, -2);
+            this.btn_minimizar.Location = new System.Drawing.Point(810, 0);
             this.btn_minimizar.Name = "btn_minimizar";
             this.btn_minimizar.Size = new System.Drawing.Size(41, 41);
             this.btn_minimizar.TabIndex = 1;
@@ -277,7 +278,7 @@
             this.btn_salir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_salir.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(201)))), ((int)(((byte)(87)))), ((int)(((byte)(54)))));
             this.btn_salir.Image = ((System.Drawing.Image)(resources.GetObject("btn_salir.Image")));
-            this.btn_salir.Location = new System.Drawing.Point(864, 0);
+            this.btn_salir.Location = new System.Drawing.Point(857, 0);
             this.btn_salir.Name = "btn_salir";
             this.btn_salir.Size = new System.Drawing.Size(41, 41);
             this.btn_salir.TabIndex = 0;
