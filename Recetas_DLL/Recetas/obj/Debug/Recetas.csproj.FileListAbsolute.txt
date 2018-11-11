@@ -1,0 +1,8 @@
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\bin\Debug\Recetas.dll
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\bin\Debug\Recetas.pdb
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.csprojResolveAssemblyReference.cache
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.produccion_2101.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.produccion_2102.resources
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.csproj.GenerateResource.Cache
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.dll
+C:\Users\chopes\Documents\Visual Studio 2015\Projects\Recetas_DLL\Recetas\obj\Debug\Recetas.pdb

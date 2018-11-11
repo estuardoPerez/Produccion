@@ -32,7 +32,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>RRHH.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaDiseno">
+      <HintPath>..\..\..\..\Visual Studio 2015\Projects\RRHH\dll\CapaDiseno.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -52,64 +58,19 @@
     <Compile Include="2601_Ingreso.Designer.cs">
       <DependentUpon>2601_Ingreso.cs</DependentUpon>
     </Compile>
-    <Compile Include="2602_Control.cs">
+    <Compile Include="2603_Proceso.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="2602_Control.Designer.cs">
-      <DependentUpon>2602_Control.cs</DependentUpon>
-    </Compile>
-    <Compile Include="2603_Diseño.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="2603_Diseño.Designer.cs">
-      <DependentUpon>2603_Diseño.cs</DependentUpon>
-    </Compile>
-    <Compile Include="2604_Manufactura.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="2604_Manufactura.Designer.cs">
-      <DependentUpon>2604_Manufactura.cs</DependentUpon>
-    </Compile>
-    <Compile Include="2605_Pruebas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="2605_Pruebas.Designer.cs">
-      <DependentUpon>2605_Pruebas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="2606_Empaque.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="2606_Empaque.Designer.cs">
-      <DependentUpon>2606_Empaque.cs</DependentUpon>
-    </Compile>
-    <Compile Include="2607_Envío.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="2607_Envío.Designer.cs">
-      <DependentUpon>2607_Envío.cs</DependentUpon>
+    <Compile Include="2603_Proceso.Designer.cs">
+      <DependentUpon>2603_Proceso.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="2601_Ingreso.resx">
       <DependentUpon>2601_Ingreso.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="2602_Control.resx">
-      <DependentUpon>2602_Control.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="2603_Diseño.resx">
-      <DependentUpon>2603_Diseño.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="2604_Manufactura.resx">
-      <DependentUpon>2604_Manufactura.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="2605_Pruebas.resx">
-      <DependentUpon>2605_Pruebas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="2606_Empaque.resx">
-      <DependentUpon>2606_Empaque.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="2607_Envío.resx">
-      <DependentUpon>2607_Envío.cs</DependentUpon>
+    <EmbeddedResource Include="2603_Proceso.resx">
+      <DependentUpon>2603_Proceso.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

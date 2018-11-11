@@ -1,0 +1,16 @@
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaDesign.exe.config
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaDesign.exe
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaDesign.pdb
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaDiseno.dll
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaLogica.dll
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\bin\Debug\CapaDatos.dll
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.csprojResolveAssemblyReference.cache
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Explosion_Materiales.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Implosion.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Produccion_2000.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Menu_prueba.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Peticion_productos.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.Properties.Resources.resources
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.csproj.GenerateResource.Cache
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.exe
+c:\users\javiman\documents\visual studio 2015\Projects\Implo_ExpoCapas\CapaDesign\obj\Debug\CapaDesign.pdb
