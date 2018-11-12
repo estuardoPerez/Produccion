@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using MySql.Data.MySqlClient;
 namespace PrototipoProduccion
 {
     public partial class frmInicio : Form
@@ -21,6 +21,7 @@ namespace PrototipoProduccion
         {
             frmOrdenes datos = new frmOrdenes();
             datos.Show();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -41,14 +42,25 @@ namespace PrototipoProduccion
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MateriaPrima datos = new MateriaPrima();
+            frmConceptoProduccion datos = new frmConceptoProduccion();
             datos.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            frmTipoCama datos = new frmTipoCama();
+            frmProcesos datos = new frmProcesos();
             datos.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frm_CosteProduccion datos = new frm_CosteProduccion();
+            datos.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            conn.ProbarConexion();
         }
     }
 }
