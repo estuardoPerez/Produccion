@@ -1,0 +1,12 @@
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\bin\Debug\RecursosHumanos.dll.config
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\bin\Debug\RecursosHumanos.dll
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\bin\Debug\RecursosHumanos.pdb
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.csprojResolveAssemblyReference.cache
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos._2601_Ingreso.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos._2602_Operaciones.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos._2603_Proceso.resources
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.csproj.GenerateResource.Cache
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.dll
+c:\users\jtanc\documents\visual studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.pdb
+C:\Users\jtanc\Documents\Visual Studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.Ingreso.resources
+C:\Users\jtanc\Documents\Visual Studio 2015\Projects\RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.Properties.Resources.resources
