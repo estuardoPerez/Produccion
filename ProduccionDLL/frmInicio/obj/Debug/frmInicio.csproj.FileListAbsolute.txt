@@ -1,0 +1,14 @@
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\frmInicio.exe.config
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\frmInicio.exe
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\frmInicio.pdb
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.frmInicio.resources
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.Properties.Resources.resources
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.csproj.GenerateResource.Cache
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.exe
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.pdb
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\CapaDatos.dll
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\CapaDiseno.dll
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\CapaLogica.dll
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\ProduccionDLL.dll
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\bin\Debug\ProduccionDLL.pdb
+C:\Users\echeverr.i16825\Documents\Visual Studio 2015\Projects\ProduccionDLL\frmInicio\obj\Debug\frmInicio.csprojResolveAssemblyReference.cache
