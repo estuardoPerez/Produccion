@@ -42,5 +42,10 @@ namespace PrototipoProduccion
             Help.ShowHelp(this, "C:/Users/echeverr.i16825/Desktop/Proyecto Analisis de Sistema/Ayuda Producción/AYUDA/Producción Ayuda.chm", "ordenes.html");
 
         }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            dataGridOrdenes.DataSource = conn.verOrdenes();
+        }
     }
 }

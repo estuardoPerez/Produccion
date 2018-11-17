@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel2 = new System.Windows.Forms.Panel();
+            this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -45,23 +46,35 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.button5);
             this.panel2.Controls.Add(this.button4);
             this.panel2.Controls.Add(this.button3);
             this.panel2.Controls.Add(this.button2);
             this.panel2.Controls.Add(this.button1);
             this.panel2.Location = new System.Drawing.Point(12, 48);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(240, 190);
+            this.panel2.Size = new System.Drawing.Size(240, 232);
             this.panel2.TabIndex = 1;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(22, 182);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(198, 23);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "button5";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Century Gothic", 9F);
             this.button4.Location = new System.Drawing.Point(131, 20);
             this.button4.Name = "button4";
+            this.button4.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button4.Size = new System.Drawing.Size(89, 73);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Inventario materia prima";
+            this.button4.Text = "Concepto de producción";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -70,28 +83,29 @@
             this.button3.Font = new System.Drawing.Font("Century Gothic", 9F);
             this.button3.Location = new System.Drawing.Point(131, 99);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(89, 65);
+            this.button3.Size = new System.Drawing.Size(89, 76);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Tipo Cama";
+            this.button3.Text = "Productos terminados";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Century Gothic", 9F);
-            this.button2.Location = new System.Drawing.Point(33, 99);
+            this.button2.Location = new System.Drawing.Point(22, 99);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 65);
+            this.button2.Size = new System.Drawing.Size(92, 76);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Areas";
+            this.button2.Text = "Costes de producción";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Century Gothic", 9F);
-            this.button1.Location = new System.Drawing.Point(33, 20);
+            this.button1.Location = new System.Drawing.Point(22, 20);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 73);
+            this.button1.Size = new System.Drawing.Size(92, 73);
             this.button1.TabIndex = 0;
             this.button1.Text = "Ordenes";
             this.button1.UseVisualStyleBackColor = true;
@@ -108,9 +122,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(51, 21);
+            this.dataGridView1.Location = new System.Drawing.Point(19, 20);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(256, 91);
+            this.dataGridView1.Size = new System.Drawing.Size(374, 155);
             this.dataGridView1.TabIndex = 0;
             // 
             // label1
@@ -139,7 +153,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.HelpRequested += new System.Windows.Forms.HelpEventHandler(this.frmInicio_HelpRequested);
             this.panel2.ResumeLayout(false);
-            
+            ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
@@ -157,6 +171,7 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button5;
     }
 }
 

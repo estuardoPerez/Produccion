@@ -42,6 +42,10 @@
     <Reference Include="CapaLogica">
       <HintPath>..\CapaLogica.dll</HintPath>
     </Reference>
+    <Reference Include="MySql.Data, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.13\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -55,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="conn.cs" />
     <Compile Include="frmMDI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,17 +78,23 @@
     <Compile Include="frmOrdenes.Designer.cs">
       <DependentUpon>frmOrdenes.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmTipoCama.cs">
+    <Compile Include="frmProcesos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmTipoCama.Designer.cs">
-      <DependentUpon>frmTipoCama.cs</DependentUpon>
+    <Compile Include="frmProcesos.Designer.cs">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
     </Compile>
-    <Compile Include="MateriaPrima.cs">
+    <Compile Include="frm_CosteProduccion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MateriaPrima.Designer.cs">
-      <DependentUpon>MateriaPrima.cs</DependentUpon>
+    <Compile Include="frm_CosteProduccion.Designer.cs">
+      <DependentUpon>frm_CosteProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConceptoProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConceptoProduccion.Designer.cs">
+      <DependentUpon>frmConceptoProduccion.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -96,11 +107,14 @@
     <EmbeddedResource Include="frmOrdenes.resx">
       <DependentUpon>frmOrdenes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmTipoCama.resx">
-      <DependentUpon>frmTipoCama.cs</DependentUpon>
+    <EmbeddedResource Include="frmProcesos.resx">
+      <DependentUpon>frmProcesos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima.resx">
-      <DependentUpon>MateriaPrima.cs</DependentUpon>
+    <EmbeddedResource Include="frm_CosteProduccion.resx">
+      <DependentUpon>frm_CosteProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConceptoProduccion.resx">
+      <DependentUpon>frmConceptoProduccion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
